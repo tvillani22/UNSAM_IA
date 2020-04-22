@@ -21,6 +21,8 @@ Las diapositivas están disponibles siguiendo los links que aparecen abajo.
 [Martes 7 de abril](https://drive.google.com/file/d/1Td6j5amKZBLiEPeTdibAC3IMPNa7mcjv/view). Modelos lineales. Regresión lineal y polinomial. Estimadores de máxima verosimilitud.
 
 [Martes 14 de abril](https://drive.google.com/file/d/1D1pUlX9E8jQl7IKTbjH7FistQyx_Myh8/view). Sobreajuste. Validación cruzada (K-fold, Leave One Out CV). Regularización (Ridge, Lasso).
+
+[Martes 21 de abril](https://drive.google.com/file/d/1DoWLNQUPJkrPTlS53YUdSLZumQn7bFDd/view). Visión bayesiana de la regresión con modelos lineales. Comparación de modelos. Clasificación: conceptos generales y funciones discriminativas. Discriminante lineal de Fischer. Perceptrón.
 ***
 
 ### Videos
