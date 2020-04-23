@@ -22,6 +22,8 @@ Las diapositivas están disponibles siguiendo los links que aparecen abajo.
 
 [Martes 14 de abril](https://drive.google.com/file/d/1D1pUlX9E8jQl7IKTbjH7FistQyx_Myh8/view). Sobreajuste. Validación cruzada (K-fold, Leave One Out CV). Regularización (Ridge, Lasso).
 
+[Jueves 16 de abril](https://drive.google.com/open?id=1Dq9lvzY8iI9DAsmkQunq9JlubiK4SoxJ). Algunos detalles sobre cuadrados minimos, BGD y SGD.
+
 [Martes 21 de abril](https://drive.google.com/file/d/1DoWLNQUPJkrPTlS53YUdSLZumQn7bFDd/view). Visión bayesiana de la regresión con modelos lineales. Comparación de modelos. Clasificación: conceptos generales y funciones discriminativas. Discriminante lineal de Fischer. Perceptrón.
 ***
 
@@ -56,3 +58,7 @@ __Martes 14 de abril.__<br>
 __Jueves 16 de abril.__<br>
 [Video](https://drive.google.com/file/d/1XXQI7TDqMbJPkbJJOpVaLTVkV1pJYNSS/view);
 [transcripción del chat](https://drive.google.com/file/d/167PmPXCoAWFV_dERbRzLC0dBOwvEfWKN/view)
+
+__Martes 21 de abril.__<br>
+[Video](https://drive.google.com/file/d/1ge_a9ukMpl3_pRSCgeIF7rjex3gGVq4O/view);
+[transcripción del chat](https://drive.google.com/file/d/1FG_vZh6TFRtUY6K46CXflROLVW60CLmH/view)
