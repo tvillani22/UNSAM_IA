@@ -25,6 +25,8 @@ Las diapositivas están disponibles siguiendo los links que aparecen abajo.
 [Jueves 16 de abril](https://drive.google.com/open?id=1Dq9lvzY8iI9DAsmkQunq9JlubiK4SoxJ). Algunos detalles sobre cuadrados minimos, BGD y SGD.
 
 [Martes 21 de abril](https://drive.google.com/file/d/1DoWLNQUPJkrPTlS53YUdSLZumQn7bFDd/view). Visión bayesiana de la regresión con modelos lineales. Comparación de modelos. Clasificación: conceptos generales y funciones discriminativas. Discriminante lineal de Fischer. Perceptrón.
+
+[Jueves 30 de abril](https://drive.google.com/file/d/1WFnVMjwRVhUGBmAgpsUSSgRE1C-AQnI8/view). Repaso de clasificación y algunos conceptos sobre regresión logística.
 ***
 
 ### Videos
