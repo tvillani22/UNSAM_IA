@@ -69,3 +69,7 @@ __Jueves 23 de abril.__<br>
 Consulta con Manu. [Video](https://drive.google.com/file/d/13kzi_M5hE8bKp5-fGQR60oYOf-n6VweJ/view); [chat](https://drive.google.com/file/d/1BOQoBVkqHJmhHA9_Um2p5OvAVDTHLxD3/view)<br>
 Consulta con Nacho. [Video](https://drive.google.com/file/d/1rP3tCtWnXSTKDNiAq5pRG15oAlwyTXOT/view); [chat](https://drive.google.com/file/d/18DuPbEdJNL1HVxvb5lFZ0YxrWfdVQEm-/view)<br>
 Consulta con Rodrigo. [Video](https://drive.google.com/file/d/1kYjWvwCxPJyvNxnpUHbwx0SauGylsA8y/view); [chat](https://drive.google.com/file/d/1ZxKsRW_t3LO3nX6Own5AO6_4-UJwzYkR/view)
+
+__Jueves 30 de abril.__<br>
+[Video](https://drive.google.com/file/d/1wHjec7ncIwPhos3Gg4e657Vb_GlazpWr/view);
+[transcripción del chat](https://drive.google.com/file/d/1fZsAIC27btj7JIQ-umx2s_RP54z5ttbE/view)
