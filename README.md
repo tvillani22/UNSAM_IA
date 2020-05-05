@@ -73,3 +73,7 @@ Consulta con Rodrigo. [Video](https://drive.google.com/file/d/1kYjWvwCxPJyvNxnpU
 __Jueves 30 de abril.__<br>
 [Video](https://drive.google.com/file/d/1wHjec7ncIwPhos3Gg4e657Vb_GlazpWr/view);
 [transcripción del chat](https://drive.google.com/file/d/1fZsAIC27btj7JIQ-umx2s_RP54z5ttbE/view)
+
+__Martes 5 de mayo.__<br>
+[Video](https://drive.google.com/file/d/1f56X7pXaroaDotMGv3XpDgAVlc9O2zZQ/view);
+[transcripción del chat](https://drive.google.com/file/d/1MoSPD9MDYXyMQHISQCZNK0ICEuJ_thXk/view)
