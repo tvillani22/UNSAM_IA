@@ -85,3 +85,8 @@ __Jueves 7 de mayo.__<br>
 __Martes 12 de mayo.__<br>
 [Video](https://drive.google.com/file/d/1esKkeyfF1X4ys_e6jz09CBQzgkJJ0HrI/view);
 [transcripción del chat](https://drive.google.com/file/d/1SzEF3nkY_gsqf7DQUgTAaraBbY3Msnxp/view)
+
+__Jueves 14 de mayo.__<br>
+[Video](https://drive.google.com/file/d/1229GmCEnDCO-MJr02_He7-f6221l8wLA/view);
+[transcripción del chat](https://drive.google.com/file/d/1RW1x6iLgYKRVXmp4aCtRi3zMA6OLtUWp/view)
+
