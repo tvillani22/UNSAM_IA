@@ -93,3 +93,7 @@ __Jueves 14 de mayo.__<br>
 __Martes 19 de mayo.__<br>
 [Video](https://drive.google.com/file/d/1y3KsVKVWwKgLnq_jVgLKp7ZphXDjLtzC/view);
 [transcripción del chat](https://drive.google.com/file/d/1ejjo6do3S0xqjyaetLyJCCmWwZzdeV0Q/view)
+
+__Jueves 21 de mayo.__<br>
+[Video](https://drive.google.com/file/d/1pjikEy8hdpoj4GMVZM_6uPUJxBLHb0d7/view);
+[transcripción del chat](https://drive.google.com/file/d/1YyxzcYlXGwQmzgK5kDoeFqG_xvmx2iMb/view)
